@@ -1,0 +1,7 @@
+Process  10:  ACCESSES: 30     FAULTS: 19     FAULT RATE: 63.33    RSS: 10    
+Process  42:  ACCESSES: 31     FAULTS: 29     FAULT RATE: 93.55    RSS: 10    
+Process  99:  ACCESSES: 53     FAULTS: 53     FAULT RATE: 100.00   RSS: 10    
+
+Total memory accesses:             114
+Total page faults:                 101
+Free frames remaining:             482
